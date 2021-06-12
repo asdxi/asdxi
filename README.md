@@ -2,4 +2,4 @@
 - 👀 I’m interested in creating nice things
 - 🌱 I’m currently learning React Native/GraphQL
 - 💞️ I’m looking to collaborate on => All things Angular and React
-- 📫 How to reach me => Twitter: orupedestrian, Linkedin: linkedin.com/in/asdxi
+- 📫 How to reach me => Twitter: kxviia
